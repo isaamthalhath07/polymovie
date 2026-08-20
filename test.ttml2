@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:version="2" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xml:lang="en">
+ <head>
+  <styling>
+   <style xml:id="s0" tts:fontFamily="sansSerif" tts:fontStyle="italic" tts:color="white" tts:fontWeight="normal" tts:fontSize="100%"></style>
+   <style xml:id="s1" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:color="white" tts:fontWeight="normal" tts:fontSize="100%"></style>
+  </styling>
+  <layout>
+   <region xml:id="r0" tts:extent="100% 15%" tts:origin="0% 85%" tts:displayAlign="after" tts:textAlign="center"></region>
+  </layout>
+ </head>
+ <body style="s1">
+  <div>
+   <p begin="00:00:04.505" end="00:00:06.882" region="r0">Go the fuck away!</p>
+   <p begin="00:00:11.595" end="00:00:12.513" region="r0">Oh, no, please!</p>
+   <p begin="00:00:16.976" end="00:00:20.020" region="r0">Homelander, what made you decide<br />to join up with Vought?</p>
+   <p begin="00:00:20.104" end="00:00:23.232" region="r0">A chance to use my gifts<br />to help make the world a better place.</p>
+   <p begin="00:00:27.069" end="00:00:28.028" region="r0">Come on in.</p>
+   <p begin="00:00:28.112" end="00:00:29.780" region="r0">It's not like this can look bad to anyone.</p>
+   <p begin="00:00:29.864" end="00:00:32.450" region="r0">I'm not a pedo by the way,<br />I don't even have fingers.</p>
+   <p begin="00:00:32.533" end="00:00:34.994" region="r0">I'm not a goddamn pedo, Benjamin!</p>
+   <p begin="00:00:42.084" end="00:00:44.003" region="r0">Wow. You guys really suck, huh?</p>
+   <p begin="00:00:48.257" end="00:00:52.553" region="r0"><span style="s0">The idea is that the outer you<br />will finally match the inner you.</span></p>
+   <p begin="00:00:53.554" end="00:00:55.931" region="r0">Picture the face you want to have,</p>
+   <p begin="00:00:56.223" end="00:00:58.058" region="r0"><span style="s0">the life you want to have.</span></p>
+   <p begin="00:00:58.893" end="00:01:00.519" region="r0">Just rub that all over your face.</p>
+   <p begin="00:01:00.895" end="00:01:02.438" region="r0">Here we go!</p>
+   <p begin="00:01:03.606" end="00:01:04.315" region="r0">Fire!</p>
+   <p begin="00:01:06.776" end="00:01:07.693" region="r0">Fuck it.</p>
+   <p begin="00:01:12.615" end="00:01:14.116" region="r0"><span style="s0">I understand your anger,</span></p>
+   <p begin="00:01:14.241" end="00:01:15.868" region="r0">but violence is never the answer.</p>
+   <p begin="00:01:15.951" end="00:01:18.037" region="r0">Fuck you, you fascist fuck!</p>
+   <p begin="00:01:18.370" end="00:01:19.497" region="r0">Shut up!</p>
+   <p begin="00:01:24.418" end="00:01:27.171" region="r0">You have any idea what<br />a thunderclap to the balls feels like?</p>
+   <p begin="00:01:27.254" end="00:01:28.422" region="r0">Don't be such a pussy.</p>
+   <p begin="00:01:31.926" end="00:01:34.553" region="r0">Holy shit balls!</p>
+   <p begin="00:01:34.804" end="00:01:35.638" region="r0">Kill me.</p>
+   <p begin="00:02:01.705" end="00:02:04.458" region="r0">Jeez Frenchie, what ya put in that stuff?</p>
+  </div>
+ </body></tt>

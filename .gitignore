@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Local Claude Code tooling
+.claude
+
+.DS_Store
